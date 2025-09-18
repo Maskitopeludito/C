@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C" Database="" Version="10000">
+  <Project Name="hOLAmUNDO" Path="hOLAmUNDO/hOLAmUNDO.project" Active="No"/>
+  <Project Name="EJEMPLO1" Path="EJEMPLO1/EJEMPLO1.project" Active="No"/>
+  <Project Name="EJEMPLO2" Path="EJEMPLO2/EJEMPLO2.project" Active="No"/>
+  <Project Name="EJEMPLO3" Path="EJEMPLO3/EJEMPLO3.project" Active="No"/>
+  <Project Name="EJEMPLO4" Path="EJEMPLO4/EJEMPLO4.project" Active="No"/>
+  <Project Name="EJEMPLO5" Path="EJEMPLO5/EJEMPLO5.project" Active="No"/>
+  <Project Name="EJEMPLO6" Path="EJEMPLO6/EJEMPLO6.project" Active="No"/>
+  <Project Name="EJEMPLO7" Path="EJEMPLO7/EJEMPLO7.project" Active="No"/>
+  <Project Name="EJEMPLO8" Path="EJEMPLO8/EJEMPLO8.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="hOLAmUNDO" ConfigName="Debug"/>
+      <Project Name="EJEMPLO1" ConfigName="Debug"/>
+      <Project Name="EJEMPLO2" ConfigName="Debug"/>
+      <Project Name="EJEMPLO3" ConfigName="Debug"/>
+      <Project Name="EJEMPLO4" ConfigName="Debug"/>
+      <Project Name="EJEMPLO5" ConfigName="Debug"/>
+      <Project Name="EJEMPLO6" ConfigName="Debug"/>
+      <Project Name="EJEMPLO7" ConfigName="Debug"/>
+      <Project Name="EJEMPLO8" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="hOLAmUNDO" ConfigName="Release"/>
+      <Project Name="EJEMPLO1" ConfigName="Release"/>
+      <Project Name="EJEMPLO2" ConfigName="Release"/>
+      <Project Name="EJEMPLO3" ConfigName="Release"/>
+      <Project Name="EJEMPLO4" ConfigName="Release"/>
+      <Project Name="EJEMPLO5" ConfigName="Release"/>
+      <Project Name="EJEMPLO6" ConfigName="Release"/>
+      <Project Name="EJEMPLO7" ConfigName="Release"/>
+      <Project Name="EJEMPLO8" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
