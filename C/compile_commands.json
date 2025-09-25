@@ -1,37 +1,41 @@
 [{
+  "file": "C:\\Users\\Chen\\Documents\\C\\C\\main.cpp",
+  "directory": "C:\\Users\\Chen\\Documents\\C\\C",
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\C\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\C\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO7\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO7",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO7\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO7\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO7\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO5\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO5",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO5\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO5\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO5\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO6\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO6",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO6\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO6\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO6\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO3\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO3",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO3\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO3\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO3\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO2\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO2",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO2\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO2\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO2\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO8\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO8",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO8\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO8\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO8\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO4\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO4",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO4\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO4\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO4\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO1\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\EJEMPLO1",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO1\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\EJEMPLO1\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\EJEMPLO1\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO\\main.cpp",
   "directory": "C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO",
-  "command": "clang++ -c C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "C:/msys64/clang64/bin/clang++.exe -c C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO\\main.cpp -o C:\\Users\\Chen\\Documents\\C\\hOLAmUNDO\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\21\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }]
