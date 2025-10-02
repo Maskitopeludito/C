@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=EJEMPLO7
+ProjectName            :=EJEMPLO13
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=C:/Users/Chen/Documents/C
-ProjectPath            :=C:/Users/Chen/Documents/C/EJEMPLO7
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/EJEMPLO7
+ProjectPath            :=C:/Users/Chen/Documents/C/EJEMPLO13
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/EJEMPLO13
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Chen
-Date                   :=9/26/2025
+Date                   :=10/3/2025
 CodeLitePath           :=C:/Users/Chen/Downloads/codelite-amd64-17.0.0/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/msys64/clang64/bin/clang++.exe
@@ -64,7 +64,7 @@ AS       := C:/msys64/clang64/bin/as.exe
 ## User defined environment variables
 ##
 CodeLiteDir:=C:\Users\Chen\Downloads\codelite-amd64-17.0.0\codelite-amd64-17.0.0\codelite
-Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+Objects0=$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) 
 
 
 
@@ -96,9 +96,14 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Chen/Documents/C/EJEMPLO7/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Chen/Documents/C/EJEMPLO13/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+
+$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix): Persona.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Chen/Documents/C/EJEMPLO13/Persona.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Persona.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix): Persona.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Persona.cpp$(PreprocessSuffix) Persona.cpp
 
 ##
 ## Clean

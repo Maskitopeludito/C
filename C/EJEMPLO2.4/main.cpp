@@ -1,7 +1,34 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-int main(int argc, char **argv)
-{
-	printf("hello world\n");
-	return 0;
+void sube(int* n) {
+    (*n)++;
+    return;
+}
+
+void mas(int& n) {
+    n++;
+    return;
+}
+
+int main(int argc, char** argv) {
+    int a;
+    cout << "Escribe un dato entero: ";
+    cin >> a;
+
+    cout << "--- Usando sube (punteros) ---" << endl;
+    for (int i = 0; i < 10; i++) {
+        cout << i << ": " << a << endl;
+        sube(&a);
+    }
+
+    cout << endl;
+
+    cout << "--- Usando mas (referencias) ---" << endl;
+    for (int i = 0; i < 10; i++) {
+        cout << i << ": " << a << endl;
+        mas(a);
+    }
+
+    return 0;
 }
